@@ -1,0 +1,14 @@
+
+.kpd_hover ul {
+	opacity: 0; 
+	transition: opacity 0.5s ease-out;
+
+}
+
+.kpd-nav {
+	margin-bottom: 0;
+}
+
+/*.kpd_hover ul:hover {
+	opacity: 1;
+}
